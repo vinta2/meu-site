@@ -1,0 +1,49 @@
+
+            h1{
+            color:greenyellow;
+            margin:100px;
+            padding: 50px;
+            }
+            h3{
+            color:chartreuse;
+            margin-left: 50px;
+            text-align: center;
+            }
+            *{
+            border:solid
+            }
+.header{
+background-color: black;
+display:flex;
+justify-content: center;
+}
+.jogos{
+display:flex;
+justify-content:space-evenly;
+}
+.jogo1 p{
+color:#228b22;
+font-size:20px;
+text-align: center;
+}
+body{
+background-color:#000000;
+}
+.rodape{
+background-color: rgb(0, 13, 73);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+a{
+color:#ff00dd;
+}
+a:hover{
+color:#0400ff;
+}
+.jogo1:hover{
+opacity: 0.7;
+}
+.rodape:hover{
+opacity: 0.7;
+}
